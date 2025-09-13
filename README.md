@@ -1,2 +1,3 @@
-# Hello-world
-This repository is intended for practicing the GitHub Flow
+print('Hello World')
+print('My name is Cassie Persaud')
+print('Week 1 assignment')
